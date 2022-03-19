@@ -1,7 +1,7 @@
 # PWA-Text-Editor
 
 ## Description:
-
+This app is a single page (progressive web application) PWA that functions offline as well as online with an internet connection. The application uses IndexedDB as a database to store the information that is written with the app. 
 
 ## Table of Contents:
 
@@ -22,10 +22,12 @@
 ## Usage:
 
 Here is a link to a [demo]()
-![Screenshot]( "screen shot #1 of the PWA-Text-Editor")
+![Screenshot](./img/PWA-Text-EditorScreenShot.jpeg "screen shot #1 of the PWA-Text-Editor")
 
 ## Installation:
- 
+Once you have the code on your computer you can open an integrated terminal and run the codes: npm i, npm install, npm run build, and npm run start:dev, these will start the server and will be listening on PORT:3000. Now when you open a Google Chrome browser on localhost:3000 you will see the application. 
+Another way to look at this application will be with the deployed link with Heroku. 
+
 ## License:
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) [License: MIT](https://opensource.org/licenses/MIT)

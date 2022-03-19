@@ -35,4 +35,4 @@ registerRoute(({ request }) => ['style', 'script', 'worker'].includes(request.de
     }),
   ],
   })
-);  // is this correct?  
+);  
